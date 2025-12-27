@@ -1,6 +1,8 @@
 Mobile, System and DevOps Engineer
-* live:
-* pdf: 
+
+CV
+* live: [view](https://cv-bilalworku.vercel.app/)
+* pdf: [view](https://github.com/uncrr/CV/blob/live/CV.pdf)
 <!--
 **uncrr/uncrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

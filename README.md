@@ -5,7 +5,7 @@ Mobile, System and DevOps Engineer
 	* pdf: [view](https://github.com/uncrr/CV/blob/live/CV.pdf)
 * contact
 	* telegram: [link](https://t.me/mafianextdoor)
- 	* wechat: [QR code](https://)
+ 	* wechat: [QR code](https://github.com/uncrr/uncrr/blob/main/wechat.jpg)
 <!--
 **uncrr/uncrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
